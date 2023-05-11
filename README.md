@@ -1,4 +1,6 @@
-Decentralized Identity Management System
+DASTAKHAT - A BLOCKCHAIN BASED IDENTITY MANAGEMENT SYSTEM                              
+
+
 This project is a decentralized application (dApp) that addresses the issue of data security in storage and data sharing, as well as data authenticity/credibility
 in identity management systems. We are using Multichain, a fork of Bitcoin, to achieve a managed blockchain over which this application will be developed.
 
